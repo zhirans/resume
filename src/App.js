@@ -1,23 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import About from './component/About';
+import Footer from './component/Footer';
+import data from './constants/resumeData.json';
+import Header from './component/Header';
+import Resume from './component/Resume';
+import Portfolio from './component/Portfolio';
+import Testimonials from './component/Testimonials';
+import Contact from './component/Contact';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header data={data.main} />
+      <About data={data.main} />
+      <Resume data={data.resume} />
+      <Portfolio data={data.portfolio} />
+      {/* <Testimonials data={data.testimonials} /> */}
+      <Contact data={data.main} />
+      <Footer />
     </div>
   );
 }

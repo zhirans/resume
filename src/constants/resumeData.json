@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "Zhiran Sun",
+    "occupation": "Software development Engineer",
+    "description": "I have been working in US for 2 years and now seeking job opportunity in China.",
+    "image": "profilepic.jpg",
+    "bio": "I am software development engineer and I have worked in Zillow Group for 2 years.",
+    "email": "zhirans@gmail.com",
+    "phone": "217-305-xxxx",
+    "address": {
+      "street": "",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    },
+    "website": "http://www.parisphoto.com/paris/exhibitors",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Illinois at Urbana-Champaign",
+        "degree": "Master of Computer Science",
+        "graduated": "December 2019"
+      },
+      {
+        "school": "Sun Yat-sen University",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "July 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zillow Group, Seattle",
+        "title": "Software Development Engineer ",
+        "years": "April 2020 - present",
+        "description": "Fullstack Software Development Engineer works on front-end and backend application construction."
+      },
+      {
+        "company": "Huawei, Shenzhen China",
+        "title": "Software Development Engineer(Intern) ",
+        "years": "June 2017 - September 2017",
+        "description": "Software Development Engineer works on internal tool improvement."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "20%"
+      },
+      {
+        "name": "C++",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mystic",
+        "description": "An image taking for a commercial project",
+        "category": "Photoshop",
+        "tags": "Branding, Web Design",
+        "image": "mystic.jpg",
+        "url": "http://port1.com",
+        "modal": "#modal-01"
+      },
+      {
+        "title": "Console",
+        "description": "A project for a travel blog taking with a digital camera and edited in photoshop.",
+        "category": "Photograhy",
+        "tags": "Branding, Photography",
+        "image": "console.jpg",
+        "url": "http://port2.com",
+        "modal": "#modal-02"
+      },
+      {
+        "title": "Judah",
+        "description": "A professional photoshoot for a cosmetic company. Advanced Photoshop retouching.",
+        "category": "Photoshop, Photography",
+        "tags": "Branding, Photography",
+        "image": "judah.jpg",
+        "url": "http://port3.com",
+        "modal": "#modal-03"
+      },
+      {
+        "title": "Into The Light",
+        "description": "Photojournalist imagery taken for a magazine documenting the history of the sport .",
+        "category": "Photography",
+        "tags": "Photography",
+        "image": "into-the-light.jpg",
+        "url": "http://port4.com",
+        "modal": "#modal-04"
+      },
+      {
+        "title": "Carlmer",
+        "description": "An editorial image for a top fashion magazine",
+        "category": "Branding",
+        "tags": "Branding,Photography",
+        "image": "carlmer.jpg",
+        "url": "http://port5.com",
+        "modal": "#modal-05"
+      },
+      {
+        "title": "Forgotten",
+        "description": "A documentary image as part of a larger project for an international charity.",
+        "category": "Photography",
+        "tags": "Photography",
+        "image": "forgotten.jpg",
+        "url": "http://port6.com",
+        "modal": "#modal-06"
+      },
+      {
+        "title": "The Street",
+        "description": "This image was for a commercial stylist and magazine editorial.",
+        "category": "Photography",
+        "tags": "Branding, Photoshop",
+        "image": "thestreet.jpg",
+        "url": "http://port7.com",
+        "modal": "#modal-07"
+      },
+      {
+        "title": "The young one",
+        "description": "This image was taken for a world wide Fashion store specialising in menswear.",
+        "category": "Photography",
+        "tags": "Photography",
+        "image": "theyoungone.jpg",
+        "url": "http://port8.com",
+        "modal": "#modal-08"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We used Henri to take images on our behalf for a recent multi-million pound project. He completely understood the brief and his shots were well taken, striking and wonderfully framed. Henri is a punctual, polite and trustworthy individual who I wouldn’t hesitate to recommend to others as we will definitely be using him for future projects. He is a pleasure to work with.",
+        "user": "Laura Evans"
+      },
+      {
+        "text": "We approached Henri with an 11th hour request to photograph a building we had just re-branded. We were on a very tight deadline to produce the promotional material, ready for a launch party the following week. Henri was incredibly accommodating, and made himself available for the following day The photographs were excellent and met with the client’s approval, so much so that he also became the photographer for the launch event! Henri is highly personable and professional and I have no hesitation in recommending him.",
+        "user": "Steven Lauder (Director)"
+      }
+    ]
+  }
+}
